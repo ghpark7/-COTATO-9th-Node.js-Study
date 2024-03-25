@@ -1,0 +1,17 @@
+{
+  "name": "learn-express",
+  "version": "0.0.1",
+  "description": "Learn Express",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app"
+  },
+  "author": "ghpark",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
